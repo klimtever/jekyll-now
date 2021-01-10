@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Build with Feeling Responsive template"
 subheadline: ""
 teaser: "Feeling Responsive allows you to use all kinds of headers. This header is with text."
