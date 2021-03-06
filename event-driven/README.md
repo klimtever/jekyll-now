@@ -1,13 +1,11 @@
 ---
-sort: 100
+sort: 2
 ---
 
-# Main 2
+# Event Driven Architecture
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
-
-{% include list.liquid all=true %}
 ```
 
 {% include list.liquid all=true %}
